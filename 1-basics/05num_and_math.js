@@ -24,4 +24,3 @@ const hunders = 1000000
 
 //  console.log(Math.min(4,5,8,6,4,7,1))
 //  console.log(Math.max(8,6,4,9,5,2,7))
-
